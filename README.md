@@ -23,6 +23,10 @@ This project focuses on sales performance, customer purchasing behavior, profit 
 * Data Analysis ToolPak
 * Pivot Tables & Charts
 
+## Explanation Video:
+
+https://drive.google.com/file/d/1VVCoyrriRIdM8NFlYOdwk4PJ1sskVo_b/view?usp=drive_link
+
 ## 📂 Dataset Information
 
 The dataset contains customer sales information with the following columns:
